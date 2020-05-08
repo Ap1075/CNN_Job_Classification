@@ -1,6 +1,6 @@
 ### Classifier which takes in a job description and gives the department name for it.
 
-*   Use a convolutional neural network model
+*   Uses a convolutional neural network model
 *   Makes use of a pre-trained Word Embeddings (GloVe)
 
 ### Data Structuring
